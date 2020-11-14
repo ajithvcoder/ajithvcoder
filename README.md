@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/ajith_ekindian" target="blank"><img src="https://img.shields.io/twitter/follow/ajith_ekindian?logo=twitter&style=for-the-badge" alt="ajith_ekindian" /></a> </p>
 
-- 🔭 I’m currently working on **Planercnn**
+- 🔭 I’m currently working on **Planercnn-3D Reconstruction from a single image**
 
-- 🌱 I’m currently learning **RL, changing future and past with parallel & sequential actions**
+- 🌱 I’m currently learning **RL**
 
-- 👯 I’m looking to collaborate on **Reinforcement Learning**
+- 👯 I’m looking to collaborate on **Reinforcement Learning, Cognitive NLP, Deep learning(Computer Vision)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ajithvallabai](https://github.com/ajithvallabai)
 
@@ -22,6 +22,10 @@
 - 📄 Know about my experiences [https://in.linkedin.com/in/ajith-kumar-56a89287](https://in.linkedin.com/in/ajith-kumar-56a89287)
 
 - ⚡ Fun fact **I work on stuffs like changing future and past**
+
+- This Readme.md was created on 14/11/2020
+
+- I have contributed extensively in the field of Future computation Science, Nautral Science(System Design of Universe).You can read more about this in my personal website
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
