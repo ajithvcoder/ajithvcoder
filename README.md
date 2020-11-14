@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AjithVallabai</h1>
+<h1 align="center">Hi 👋, I'm Ajith Vallabai</h1>
 <h3 align="center">Works with python,c++ - Deep Learning,Reinforcement Learning, Future Computational Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajithvallabai&label=Profile%20views&color=0e75b6&style=flat" alt="ajithvallabai" /> </p>
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **RL**
 
-- 👯 I’m looking to collaborate on **Reinforcement Learning, Cognitive NLP, Deep learning(Computer Vision)**
+- 👯 I’m looking to collaborate on **Reinforcement Learning(Robotics stimulation), Cognitive NLP, Deep learning(Computer Vision)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ajithvallabai](https://github.com/ajithvallabai)
 
@@ -23,9 +23,13 @@
 
 - ⚡ Fun fact **I work on stuffs like changing future and past**
 
-- This Readme.md was created on 14/11/2020
+- ⚡ This Readme.md was created on 14/11/2020
 
-- I have contributed extensively in the field of Future computation Science, Nautral Science(System Design of Universe).You can read more about this in my personal website
+- 🔭 I have contributed extensively in the field of Future computation Science, Nautral Science(specific: System Design of Universe).You can read more about this in my personal website.
+
+- 🔭 Some of the key skills I developed are Data travelling in present,past,future, Data destruction and remberance, Embedding observance, Embeddings construction, matching and destruction, Parallel exploit, Sequential exploit, Fractal decoding/observance,Fractal encoding.These terms are coined by me when i was working on constucting baselines for Future Computational Science field so it wont be in wikepedia as of 2020. I would have explained this terms vividly in my website.  
+
+- 🌱 Many persons have thought me several good things all above works and below works belongs to them also.Credits belong to them too. Thanks.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
