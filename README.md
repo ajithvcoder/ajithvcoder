@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://in.linkedin.com/in/ajith-kumar-56a89287](https://in.linkedin.com/in/ajith-kumar-56a89287)
 
-- ⚡ This Readme.md was created on 14/11/2020
+- ⚡ I know these technologies mentioned above and below it doesnt mean that i am expert in all, either i would be learning below tech or i woud be working with it.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
