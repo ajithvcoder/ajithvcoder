@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajithvallabai" alt="ajithvallabai" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ajith_ekindian" target="blank"><img src="https://img.shields.io/twitter/follow/ajith_ekindian?logo=twitter&style=for-the-badge" alt="ajith_ekindian" /></a> </p>
 
 - 🔭 I’m currently working on **Planercnn-3D Reconstruction from a single image**
 
