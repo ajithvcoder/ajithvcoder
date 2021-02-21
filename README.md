@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ajith Vallabai</h1>
+
 <h3 align="center">Works with python,c++ - Deep Learning,Reinforcement Learning </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajithvallabai&label=Profile%20views&color=0e75b6&style=flat" alt="ajithvallabai" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajithvallabai" alt="ajithvallabai" /></a> </p>
 
 
 - 🔭 I’m currently working on **Planercnn-3D Reconstruction from a single image**
