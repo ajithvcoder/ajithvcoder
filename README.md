@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Planercnn-3D Reconstruction from a single image**
 
-- 👯 I’m looking to collaborate on ** Humanoid Robotics, Action Recognition, Multi Agent Systems  **
+- 👯 I’m looking to collaborate on **Humanoid Robotics, Action Recognition, Multi Agent Systems**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ajithvallabai](https://github.com/ajithvallabai)
 
