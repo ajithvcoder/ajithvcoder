@@ -8,7 +8,7 @@
 
 
 <a href = "https://scholar.google.com/citations?user=TZNqEB0AAAAJ&hl=en">
-<img src="assets/google_scholar.jpg" alt="Google Scholar" width="130", height ="25" /> 
+<img src="assets/google_scholar.JPG" alt="Google Scholar" width="130", height ="25" /> 
 </a>
 
 <a href = "https://in.linkedin.com/in/ajith-kumar-56a89287">
