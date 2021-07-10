@@ -6,9 +6,15 @@
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="ajithvallabai" width="100", height ="25" /> 
 </a>
 
+
+<a href = "https://scholar.google.com/citations?user=TZNqEB0AAAAJ&hl=en">
+<img src="assets/google_scholar.jpg" alt="Google Scholar" width="130", height ="25" /> 
+</a>
+
 <a href = "https://in.linkedin.com/in/ajith-kumar-56a89287">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ajithvallabai" width="100", height ="25" /> 
 </a>
+
 
  <img  src="https://komarev.com/ghpvc/?username=ajithvallabai&label=Profile%20views&color=0e75b6&style=flat" alt="ajithvallabai" align="right"/> 
 
