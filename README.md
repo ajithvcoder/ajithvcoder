@@ -21,9 +21,9 @@
 </p>
 
 
-- 💬 I work and contribute on **Deep Learning**
+- 💬 I like to work on **MLOps, Computer Vision**. I am actively seeking collaboration opportunities in MLOps projects.
 
-- 📫 Reach me at **inocajith21.5@gmail.com**
+- 📫 I am currently focusing on developing MLOps projects. If you share the same interest, feel free to reach out to me at **inocajith21.5@gmail.com**, and let's collaborate on building impactful projects together.
 
 **Research paper Implementations**
 
@@ -45,14 +45,14 @@ S No | Repo Name | Status | Details
 6 | [Basic Opencv Projects](https://github.com/ajithvallabai/opencv_projects) | Compelted | Basic projects
 7 | [Basic Python3 Projects](https://github.com/ajithvallabai/Python3_Projects) | Completed | Basic projects
 8 | [DSA Interview Questions](https://github.com/ajithvallabai/DSA) | Completed | For sure you can crack 97% of companies   
-9 | [CPP based Computer vision Projects](https://github.com/ajithvallabai/CPP_based_Computer_vision_Projects)  | In progress | Basic projects
-10 | [Build Train Deploy 10 AI apps](https://github.com/ajithvallabai/Build_Train_Deploy_10_AI_apps)  | In progress | Deploying 10 AI apps
-11 | [GAN_Unlocked](https://github.com/ajithvallabai/GAN_Unlocked)  | In progress | GAN works
-12 | [Building Custom loss functions](https://github.com/ajithvallabai/Building_Custom_loss_functions)  | In progress | Study and create custom loss functions
+9 | [CPP based Computer vision Projects](https://github.com/ajithvallabai/CPP_based_Computer_vision_Projects)  | On Hold | Basic projects
+10 | [Build Train Deploy 10 AI apps](https://github.com/ajithvallabai/Build_Train_Deploy_10_AI_apps)  | Currently Working | Deploying 10 AI apps
+11 | [GAN_Unlocked](https://github.com/ajithvallabai/GAN_Unlocked)  | On Hold | GAN works
+12 | [Building Custom loss functions](https://github.com/ajithvallabai/Building_Custom_loss_functions)  | On Hold | Study and create custom loss functions
 13 | [Awesome Rcnn](https://github.com/ajithvallabai/awesome-rcnn)  | Bulit with time | Collection of RCNN based papers
 14 | [Leetcode_TopInterviewQuestions](https://github.com/ajithvallabai/leetcode_TopInterviewQuestions) | Built with time | DSA questions
-15 | [Custom Computer Vision Projects 2d Collection](https://github.com/ajithvallabai/awesome_custom_computer_vision_projects) | In progress | Perfoming custom Computer vision projects
-16 | [Computer Vision Loss function Collection 2d](https://github.com/ajithvallabai/awesome_cv_loss_functions_2d) | In progress | Collection of loss functions used in 2d Computer Vision 
+15 | [Custom Computer Vision Projects 2d Collection](https://github.com/ajithvallabai/awesome_custom_computer_vision_projects) | On Hold | Perfoming custom Computer vision projects
+16 | [Computer Vision Loss function Collection 2d](https://github.com/ajithvallabai/awesome_cv_loss_functions_2d) | On Hold | Collection of loss functions used in 2d Computer Vision 
 
 **Course Works**
 
