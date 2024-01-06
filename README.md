@@ -64,8 +64,8 @@ S No | Repo Name | Status | Details
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajithvallabai&show_icons=true&locale=en&layout=compact" alt="ajithvallabai" /> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajithvcoder&show_icons=true&locale=en&layout=compact" alt="ajithvcoder" /> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajithvallabai&show_icons=true&locale=en" alt="ajithvallabai" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajithvcoder&show_icons=true&locale=en" alt="ajithvcoder" /></p>
 
