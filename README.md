@@ -25,6 +25,8 @@
 
 - 📫 I am currently focusing on developing MLOps projects. If you share the same interest, feel free to reach out to me at **inocajith21.5@gmail.com**, and let's collaborate on building impactful projects together.
 
+- 🎥🔥 I have a youtube channel focusing on devops and mlops projects - [@ajithvcoder](https://www.youtube.com/@ajithvcoder) - Kindly subscribe if it aligns with you.
+
 **Research paper Implementations**
 
 S No | Repo Name | Status | Details
@@ -39,27 +41,23 @@ S No | Repo Name | Status | Details
 --- |  -----     | ----   | ------
 1 | [Deep Fakes Audio & Video](https://github.com/ajithvallabai/Deepfakes_audio_video) | Completed | Given a image you can make it speak and provide voice
 2 | [Custom Multiobject Multiinstance Tracking](https://github.com/ajithvallabai/Custom_Multiobject_MultiInstance_Tracking) | Completed | Tracking custom object with colab
-3 | [UnSupervised Clustering on Custom dataset](https://github.com/ajithvallabai/UnsupervisedClustering) | Completed | Performing custom image clustering
-4 | [Pretrained Models to process images and visuvalize layers(keras)](https://github.com/ajithvallabai/getsetgo_keras-beginner) | Completed | Basic DL 
-5 | [Planercnn Customimages](https://github.com/ajithvallabai/planercnn_customimages) | Completed | Tried to train planercnn on custom images
-6 | [Basic Opencv Projects](https://github.com/ajithvallabai/opencv_projects) | Compelted | Basic projects
-7 | [Basic Python3 Projects](https://github.com/ajithvallabai/Python3_Projects) | Completed | Basic projects
-8 | [DSA Interview Questions](https://github.com/ajithvallabai/DSA) | Completed | For sure you can crack 97% of companies   
-9 | [CPP based Computer vision Projects](https://github.com/ajithvallabai/CPP_based_Computer_vision_Projects)  | On Hold | Basic projects
-10 | [Build Train Deploy 10 AI apps](https://github.com/ajithvallabai/Build_Train_Deploy_10_AI_apps)  | Currently Working | Deploying 10 AI apps
-11 | [GAN_Unlocked](https://github.com/ajithvallabai/GAN_Unlocked)  | On Hold | GAN works
-12 | [Building Custom loss functions](https://github.com/ajithvallabai/Building_Custom_loss_functions)  | On Hold | Study and create custom loss functions
-13 | [Awesome Rcnn](https://github.com/ajithvallabai/awesome-rcnn)  | Bulit with time | Collection of RCNN based papers
-14 | [Leetcode_TopInterviewQuestions](https://github.com/ajithvallabai/leetcode_TopInterviewQuestions) | Built with time | DSA questions
-15 | [Custom Computer Vision Projects 2d Collection](https://github.com/ajithvallabai/awesome_custom_computer_vision_projects) | On Hold | Perfoming custom Computer vision projects
-16 | [Computer Vision Loss function Collection 2d](https://github.com/ajithvallabai/awesome_cv_loss_functions_2d) | On Hold | Collection of loss functions used in 2d Computer Vision 
+3 | [Pretrained Models to process images and visuvalize layers(keras)](https://github.com/ajithvallabai/getsetgo_keras-beginner) | Completed | Basic DL 
+4 | [Planercnn Customimages](https://github.com/ajithvallabai/planercnn_customimages) | Completed | Tried to train planercnn on custom images
+5 | [Basic Opencv Projects](https://github.com/ajithvallabai/opencv_projects) | Compelted | Basic projects
+6 | [Basic Python3 Projects](https://github.com/ajithvallabai/Python3_Projects) | Completed | Basic projects
+7 | [CPP based Computer vision Projects](https://github.com/ajithvallabai/CPP_based_Computer_vision_Projects)  | On Hold | Basic projects
+8 | [Build Train Deploy 10 AI apps](https://github.com/ajithvallabai/Build_Train_Deploy_10_AI_apps)  | Currently Working | Deploying 10 AI apps
+9 | [GAN_Unlocked](https://github.com/ajithvallabai/GAN_Unlocked)  | On Hold | GAN works
+10 | [Building Custom loss functions](https://github.com/ajithvallabai/Building_Custom_loss_functions)  | On Hold | Study and create custom loss functions
+11 | [Custom Computer Vision Projects 2d Collection](https://github.com/ajithvallabai/awesome_custom_computer_vision_projects) | On Hold | Perfoming custom Computer vision projects
+12 | [Computer Vision Loss function Collection 2d](https://github.com/ajithvallabai/awesome_cv_loss_functions_2d) | On Hold | Collection of loss functions used in 2d Computer Vision 
 
 **Course Works**
 
 S No | Repo Name | Status | Details
 --- |  -----     | ----   | ------
 1   | [Extensive Vision AI(EVA)](https://github.com/ajithvallabai/EVA-Extensive_Vision_AI) | Completed | DL & RL Course
-2   | [Extensive Python and Pytorch for AI(EPAi)](https://github.com/ajithvallabai/EPAi) | In progress | Python & Pytorch course
+2   | [Extensive Python and Pytorch for AI(EPAi)](https://github.com/ajithvallabai/EPAi) | Completed | Python & Pytorch course
 
 
 
