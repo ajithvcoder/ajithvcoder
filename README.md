@@ -18,7 +18,7 @@
 
  <img  src="https://komarev.com/ghpvc/?username=ajithvallabai&label=Profile%20views&color=0e75b6&style=flat" alt="ajithvallabai" align="right"/> 
 
-</p>
+
 
 
 - 💬 I like to work on **MLOps, Computer Vision**. I am actively seeking collaboration opportunities in MLOps projects.
@@ -66,4 +66,11 @@ S No | Repo Name | Status | Details
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajithvcoder&show_icons=true&locale=en" alt="ajithvcoder" /></p>
+
+
+
+
+Monthly View            |  Weekly views                 | Daily views
+-------------------------|------------------------- | ------------------- 
+<img src="https://u8views.com/api/v1/github/profiles/8075112/views/month-count.svg" width="300"/>  |  <img src="https://u8views.com/api/v1/github/profiles/8075112/views/week-count.svg" width="300"/> | <img src="https://u8views.com/api/v1/github/profiles/8075112/views/day-count.svg" width="300"/> 
 
