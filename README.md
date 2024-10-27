@@ -72,7 +72,7 @@ S No | Repo Name | Status | Details| Stars |
 11 | [Custom Computer Vision Projects 2d Collection](https://github.com/ajithvcoder/awesome_custom_computer_vision_projects) | On Hold | Perfoming custom Computer vision projects | <img  src="https://img.shields.io/github/stars/ajithvcoder/awesome_custom_computer_vision_projects?style=social" alt="ajithvcoder" align="center"/> |
 12 | [Computer Vision Loss function Collection 2d](https://github.com/ajithvcoder/awesome_cv_loss_functions_2d) | On Hold | Collection of loss functions used in 2d Computer Vision | <img src="https://img.shields.io/github/stars/ajithvcoder/awesome_cv_loss_functions_2d?style=social" alt="ajithvcoder" align="center"/> |
 
-### Course Works
+### Course Works - [Details](https://theschoolof.ai/#programs)
 
 S No | Repo Name | Status | Details
 --- |  -----     | ----   | ------
