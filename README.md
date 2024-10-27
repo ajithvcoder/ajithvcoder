@@ -47,30 +47,30 @@ Note:
 
 ### Research paper Implementations
 
-S No | Repo Name | Status | Details
---- |  -----     | ----   | ------
-1 | [DeepMTH Net](https://github.com/ajithvcoder/Deep_MTH_Net)| Compeleted | DL model on person attribute recognition
-2 | [Circle-U-Net](https://github.com/ajithvcoder/Circle-U-Net) | Completed | DL model on image segmentation
-3 | [CAAE-Age-Regression-Progression](https://github.com/ajithvcoder/CAAE-Age_Progression_Regression_Pytorch) | Completed | Age GAN with colab implementation
+S No | Repo Name | Status | Details | Stars
+--- |  -----     | ----   | ------ |  ---
+1 | [DeepMTH Net](https://github.com/ajithvcoder/Deep_MTH_Net)| Compeleted | DL model on person attribute recognition | <img  src="https://img.shields.io/github/stars/ajithvcoder/Deep_MTH_Net?style=social" alt="ajithvcoder" align="right"/> |
+2 | [Circle-U-Net](https://github.com/ajithvcoder/Circle-U-Net) | Completed | DL model on image segmentation |  <img  src="https://img.shields.io/github/stars/ajithvcoder/Circle-U-Net?style=social" alt="ajithvcoder" align="right"/> |
+3 | [CAAE-Age-Regression-Progression](https://github.com/ajithvcoder/CAAE-Age_Progression_Regression_Pytorch) | Completed | Made colab implementation for Age GAN |  <img  src="https://img.shields.io/github/stars/ajithvcoder/CAAE-Age_Progression_Regression_Pytorch?style=social" alt="ajithvcoder" align="right"/> |
 
 
 
 ### Top Self-Created Projects
 
-S No | Repo Name | Status | Details
---- |  -----     | ----   | ------
-1 | [Deep Fakes Audio & Video](https://github.com/ajithvcoder/Deepfakes_audio_video) | Completed | Given a image you can make it speak and provide voice
-2 | [Custom Multiobject Multiinstance Tracking](https://github.com/ajithvcoder/Custom_Multiobject_MultiInstance_Tracking) | Completed | Tracking custom object with colab
-3 | [Pretrained Models to process images and visuvalize layers(keras)](https://github.com/ajithvcoder/getsetgo_keras-beginner) | Completed | Basic DL 
-4 | [Planercnn Customimages](https://github.com/ajithvcoder/planercnn_customimages) | Completed | Tried to train planercnn on custom images
-5 | [Basic Opencv Projects](https://github.com/ajithvcoder/opencv_projects) | Compelted | Basic projects
-6 | [Basic Python3 Projects](https://github.com/ajithvcoder/Python3_Projects) | Completed | Basic projects
-7 | [CPP based Computer vision Projects](https://github.com/ajithvcoder/CPP_based_Computer_vision_Projects)  | On Hold | Basic projects
-8 | [Build Train Deploy 10 AI apps](https://github.com/ajithvcoder/Build_Train_Deploy_10_AI_apps)  | Currently Working | Deploying 10 AI apps
-9 | [GAN_Unlocked](https://github.com/ajithvcoder/GAN_Unlocked)  | On Hold | GAN works
-10 | [Building Custom loss functions](https://github.com/ajithvcoder/Building_Custom_loss_functions)  | On Hold | Study and create custom loss functions
-11 | [Custom Computer Vision Projects 2d Collection](https://github.com/ajithvcoder/awesome_custom_computer_vision_projects) | On Hold | Perfoming custom Computer vision projects
-12 | [Computer Vision Loss function Collection 2d](https://github.com/ajithvcoder/awesome_cv_loss_functions_2d) | On Hold | Collection of loss functions used in 2d Computer Vision 
+S No | Repo Name | Status | Details| Stars |
+--- |  -----     | ----   | ------ | ----  |
+1 | [Deep Fakes Audio & Video](https://github.com/ajithvcoder/Deepfakes_audio_video) | Completed | Given a image you can make it speak and provide voice | <img  src="https://img.shields.io/github/stars/ajithvcoder/Deepfakes_audio_video?style=social" alt="ajithvcoder" align="right"/> |
+2 | [Custom Multiobject Multiinstance Tracking](https://github.com/ajithvcoder/Custom_Multiobject_MultiInstance_Tracking) | Completed | Tracking custom object with colab | <img  src="https://img.shields.io/github/stars/ajithvcoder/Custom_Multiobject_MultiInstance_Tracking?style=social" alt="ajithvcoder" align="right"/> |
+3 | [Pretrained Models to process images and visuvalize layers(keras)](https://github.com/ajithvcoder/getsetgo_keras-beginner) | Completed | Basic DL | <img  src="https://img.shields.io/github/stars/ajithvcoder/getsetgo_keras-beginner?style=social" alt="ajithvcoder" align="right"/> |
+4 | [Planercnn Customimages](https://github.com/ajithvcoder/planercnn_customimages) | Completed | Tried to train planercnn on custom images | <img  src="https://img.shields.io/github/stars/ajithvcoder/planercnn_customimages?style=social" alt="ajithvcoder" align="right"/> |
+5 | [Basic Opencv Projects](https://github.com/ajithvcoder/opencv_projects) | Compelted | Basic projects | <img  src="https://img.shields.io/github/stars/ajithvcoder/opencv_projects?style=social" alt="ajithvcoder" align="right"/> |
+6 | [Basic Python3 Projects](https://github.com/ajithvcoder/Python3_Projects) | Completed | Basic projects | <img  src="https://img.shields.io/github/stars/ajithvcoder/Python3_Projects?style=social" alt="ajithvcoder" align="right"/> |
+7 | [CPP based Computer vision Projects](https://github.com/ajithvcoder/CPP_based_Computer_vision_Projects)  | On Hold | Basic projects | <img  src="https://img.shields.io/github/stars/ajithvcoder/CPP_based_Computer_vision_Projects?style=social" alt="ajithvcoder" align="right"/> |
+8 | [Build Train Deploy 10 AI apps](https://github.com/ajithvcoder/Build_Train_Deploy_10_AI_apps)  | Currently Working | Deploying 10 AI apps | <img  src="https://img.shields.io/github/stars/ajithvcoder/Build_Train_Deploy_10_AI_apps?style=social" alt="ajithvcoder" align="right"/> |
+9 | [GAN_Unlocked](https://github.com/ajithvcoder/GAN_Unlocked)  | On Hold | GAN works | <img  src="https://img.shields.io/github/stars/ajithvcoder/GAN_Unlocked?style=social" alt="ajithvcoder" align="right"/> |
+10 | [Building Custom loss functions](https://github.com/ajithvcoder/Building_Custom_loss_functions)  | On Hold | Study and create custom loss functions | <img  src="https://img.shields.io/github/stars/ajithvcoder/Building_Custom_loss_functions?style=social" alt="ajithvcoder" align="right"/> |
+11 | [Custom Computer Vision Projects 2d Collection](https://github.com/ajithvcoder/awesome_custom_computer_vision_projects) | On Hold | Perfoming custom Computer vision projects | <img  src="https://img.shields.io/github/stars/ajithvcoder/awesome_custom_computer_vision_projects?style=social" alt="ajithvcoder" align="right"/> |
+12 | [Computer Vision Loss function Collection 2d](https://github.com/ajithvcoder/awesome_cv_loss_functions_2d) | On Hold | Collection of loss functions used in 2d Computer Vision | <img src="https://img.shields.io/github/stars/ajithvcoder/awesome_cv_loss_functions_2d?style=social" alt="ajithvcoder" align="right"/> |
 
 ### Course Works
 
