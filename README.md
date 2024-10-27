@@ -66,7 +66,7 @@ S No | Repo Name | Status | Details| Stars |
 5 | [Basic Opencv Projects](https://github.com/ajithvcoder/opencv_projects) | Compelted | Basic projects | <img  src="https://img.shields.io/github/stars/ajithvcoder/opencv_projects?style=social" alt="ajithvcoder" align="center"/> |
 6 | [Basic Python3 Projects](https://github.com/ajithvcoder/Python3_Projects) | Completed | Basic projects | <img  src="https://img.shields.io/github/stars/ajithvcoder/Python3_Projects?style=social" alt="ajithvcoder" align="center"/> |
 7 | [CPP based Computer vision Projects](https://github.com/ajithvcoder/CPP_based_Computer_vision_Projects)  | On Hold | Basic projects | <img  src="https://img.shields.io/github/stars/ajithvcoder/CPP_based_Computer_vision_Projects?style=social" alt="ajithvcoder" align="center"/> |
-8 | [Build Train Deploy 10 AI apps](https://github.com/ajithvcoder/Build_Train_Deploy_10_AI_apps)  | Currently Working | Deploying 10 AI apps | <img  src="https://img.shields.io/github/stars/ajithvcoder/Build_Train_Deploy_10_AI_apps?style=social" alt="ajithvcoder" align="center"/> |
+8 | [Build Train Deploy 10 AI apps](https://github.com/ajithvcoder/Build_Train_Deploy_10_AI_apps)  | In Progress | Deploying 10 AI apps | <img  src="https://img.shields.io/github/stars/ajithvcoder/Build_Train_Deploy_10_AI_apps?style=social" alt="ajithvcoder" align="center"/> |
 9 | [GAN_Unlocked](https://github.com/ajithvcoder/GAN_Unlocked)  | On Hold | GAN works | <img  src="https://img.shields.io/github/stars/ajithvcoder/GAN_Unlocked?style=social" alt="ajithvcoder" align="center"/> |
 10 | [Building Custom loss functions](https://github.com/ajithvcoder/Building_Custom_loss_functions)  | On Hold | Study and create custom loss functions | <img  src="https://img.shields.io/github/stars/ajithvcoder/Building_Custom_loss_functions?style=social" alt="ajithvcoder" align="center"/> |
 11 | [Custom Computer Vision Projects 2d Collection](https://github.com/ajithvcoder/awesome_custom_computer_vision_projects) | On Hold | Perfoming custom Computer vision projects | <img  src="https://img.shields.io/github/stars/ajithvcoder/awesome_custom_computer_vision_projects?style=social" alt="ajithvcoder" align="center"/> |
@@ -76,9 +76,9 @@ S No | Repo Name | Status | Details| Stars |
 
 S No | Repo Name | Status | Details
 --- |  -----     | ----   | ------
-1   | [Extensive Vision AI(EVA)](https://github.com/ajithvcoder/EVA-Extensive_Vision_AI) | Completed | DL & RL Course
-2   | [Extensive Python and Pytorch for AI(EPAi)](https://github.com/ajithvcoder/EPAi) | Completed | Python & Pytorch course
-3   | [Extensive Machine Learning Operations(EMLO)](https://github.com/ajithvcoder/TSAI-EMLO-4.0) | Currently Learning | Machine Learning Operations course
+1   | [Extensive Vision AI(EVA)](https://github.com/ajithvcoder/EVA-Extensive_Vision_AI) | Completed | Deep Learning & Reinforcement Learning
+2   | [Extensive Python and Pytorch for AI(EPAi)](https://github.com/ajithvcoder/EPAi) | Completed | Python & PyTorch Programming for AI
+3   | [Extensive Machine Learning Operations(EMLO)](https://github.com/ajithvcoder/TSAI-EMLO-4.0) | In Progress | Machine Learning Operations
 
 
 
