@@ -31,7 +31,7 @@
 
  Repo Name |  Pull request |
  ----      | ---------     |
- [Adalflow](https://github.com/SylphAI-Inc/AdalFlow)  |  [#205](https://github.com/SylphAI-Inc/AdalFlow/pull/205), [#207](https://github.com/SylphAI-Inc/AdalFlow/pull/207), [#226](https://github.com/SylphAI-Inc/AdalFlow/pull/226) |
+ [Adalflow](https://github.com/SylphAI-Inc/AdalFlow)  |  [#205](https://github.com/SylphAI-Inc/AdalFlow/pull/205), [#207](https://github.com/SylphAI-Inc/AdalFlow/pull/207), [#226](https://github.com/SylphAI-Inc/AdalFlow/pull/226), [#260](https://github.com/SylphAI-Inc/AdalFlow/pull/260) |
  [Opencv](https://github.com/opencv/opencv)    | [#24574](https://github.com/opencv/opencv/pull/24574), [#25010](https://github.com/opencv/opencv/pull/25010), [#25041](https://github.com/opencv/opencv/pull/25041)  |
  [Pytorch](https://github.com/pytorch/pytorch)   | [#95454](https://github.com/pytorch/pytorch/pull/95454) [#95692](https://github.com/pytorch/pytorch/pull/95692) |
 
