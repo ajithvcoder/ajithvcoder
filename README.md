@@ -27,6 +27,15 @@
 
 - 🎥🔥 I have a youtube channel focusing on devops and mlops projects - [@ajithvcoder](https://www.youtube.com/@ajithvcoder) - Kindly subscribe if it aligns with you.
 
+### Open Source Projects (Authored)
+
+| Project | Description | Links |
+|--------|-------------|-------|
+| **numt** <br> Python package | Lightweight numerical utilities and transformations for Python. | [PyPI](https://pypi.org/project/numt/) <br> [💻 Source](https://github.com/ajithvcoder/numt) |
+| **Word Watch Alert** <br> Chrome Extension | Alerts you when specified keywords appear on any webpage. | [Chrome Store Under review with Chrome team] <br> [💻 Source](https://github.com/ajithvcoder/Word-Watcher-Alert) |
+
+
+
 ### Merged Pull Requests in a Repository with 1k+ Stars
 
  Repo Name |  Pull request |
