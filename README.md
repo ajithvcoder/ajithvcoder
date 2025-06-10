@@ -100,7 +100,5 @@ S No | Repo Name | Status | Details
 
 
 
-Monthly View            |  Weekly views                 | Daily views
--------------------------|------------------------- | ------------------- 
-<img src="https://u8views.com/api/v1/github/profiles/8075112/views/month-count.svg" width="300"/>  |  <img src="https://u8views.com/api/v1/github/profiles/8075112/views/week-count.svg" width="300"/> | <img src="https://u8views.com/api/v1/github/profiles/8075112/views/day-count.svg" width="300"/> 
+<img src="https://u8views.com/api/v1/github/profiles/8075112/views/total-count.svg" width="100" height="25"/>  
 
