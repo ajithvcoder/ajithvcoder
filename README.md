@@ -21,7 +21,7 @@
 
 
 
-- 💬 I like to work as a **ML Engineer**. I am actively seeking collaboration opportunities in ML Engineering projects. If you share the same interest, feel free to reach out to me at **inocajith21.5@gmail.com**, and let's collaborate on building impactful projects together.
+- 💬 I like to work as a **Gen AI Engineer**. I am actively seeking collaboration opportunities in Gen AI Engineering projects. If you share the same interest, feel free to reach out to me at **inocajith21.5@gmail.com**, and let's collaborate on building impactful projects together.
 
 - 🎥🔥 I have a youtube channel focusing on mlops projects - [@ajithvcoder](https://www.youtube.com/@ajithvcoder) - Kindly subscribe if it aligns with you.
 
